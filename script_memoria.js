@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
     const images = [
-        'Elefante.jpg', 'Elefante.jpg',
+        'elefante.jpg', 'Elefante.jpg',
         'tigre.jpg', 'tigre.jpg',
         'leon.jpg', 'leon.jpg',
         'mono.jpg', 'mono.jpg',
